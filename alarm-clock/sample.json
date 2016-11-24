@@ -19,6 +19,7 @@
          "Edison",
          "Gateway 32-Bit",
          "Gateway 64-Bit"
-    ]
+    ],
+    "os": ["yocto"]
   }
 }
